@@ -1,0 +1,2 @@
+# Baseball_hit_prediction-
+ Using Logistic regression to predict whether a pitch will be a hit or not based on a big data with more than 70 dimensions  Using the Trackman pitch-level data building a model that predicts the probability of a batted ball being a hit based on batted ball characteristics and relevant contextual data. Please regard fielding errors as non-out hits for the purposes of this analysis.
