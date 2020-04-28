@@ -5,7 +5,7 @@ To better understand the data-set please refer to the glossary below which expla
 
 _ _ _ _ _ _ _ _ _ _ _ _ GLOSSARY _ _ _ _ _ _ _ _ _ _ _ _
 
-GameId- The unique key identifier per game 
+GameId- The unique key identifier per game \n
 BallparkId- The unique key identifier for each unique ball park the specific game is being played at 
 GameEventId- The unique key identifier for each unique game event 
 GameTime- The time the game began at 
