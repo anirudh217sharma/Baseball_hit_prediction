@@ -5,15 +5,24 @@ To better understand the data-set please refer to the glossary below which expla
 
 _ _ _ _ _ _ _ _ _ _ _ _ GLOSSARY _ _ _ _ _ _ _ _ _ _ _ _
 
-GameId- The unique key identifier per game \n
+GameId- The unique key identifier per game 
+
 BallparkId- The unique key identifier for each unique ball park the specific game is being played at 
+
 GameEventId- The unique key identifier for each unique game event 
+
 GameTime- The time the game began at 
+
 Season- The season the game was played 
+
 AtBatId- The unique key identifier for the at bat 
+
 TrackmanUid- The unique key identifier of the pitch 
+
 BatterId- The unique key identifier of the batter hitting 
+
 BatterHitting- Which side of the plate the batter is hitting from 
+
 BatterPositionId- The position on the field the batter plays 
 batterTimesFaced- The amount of times the pitcher has faced the batted in the game 
 cumulativeBattersFaced- The amount of batters the pitcher has faced in the game 
